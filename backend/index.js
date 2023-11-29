@@ -7,7 +7,7 @@ import cors from "cors";
 const db = new sqlite3.Database('embedding_database.db');
 const app = express();
 const port = 3000;
-const API_KEY = "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";
+const API_KEY = "<OPENAI-API-KEY>";
 
 app.use(bodyParser.json());
 app.use(cors());
