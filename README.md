@@ -13,6 +13,7 @@ This is a fullstack chatbot created with React, Nodejs, OpenAi, and ChatGPT whil
 * [React](https://react.dev/)
 * [Vite](https://vitejs.dev/)
 
+### Steps
 * Navigate into the `backend` folder `cd backend`
 * Install the dependencies ``npm install``
 * Replace the configuration data with your own data in the `index.js` file
